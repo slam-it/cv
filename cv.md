@@ -8,6 +8,7 @@
 
 ## Software Engineer
 </div></div></div><div id="main"><div id="main-container"><div id="main-left"><svg viewBox="0,0,240,50" xmlns="http://www.w3.org/2000/svg" fill="currentColor"><polygon points="0,0 240,0 120,50" /></svg>
+
 <div id="main-left-content">
 
 # Contact Gegevens
@@ -50,9 +51,7 @@ Naar de cloud brengen van meerdere on-premise WebSphere applicaties. Migreren va
 ### Kadaster
 #### 2020 - 2022
 
-Het ministerie van BZK wil iedereen op een laagdrempelige manier inzicht geven in de regels die op een bepaalde plek gelden. Om dat mogelijk te maken vroeg het ministerie het kadaster om Ozon te bouwen . Een database die laat zien welke regels op een bepaalde plek gelden. 
-
-Het Digitaal Stelsel Omgevingswet (DSO) is de ICT-motor die dit mogelijk gaat maken. Het DSO ondersteunt bijvoorbeeld overheden in de digitale keten ‘van plan tot publicatie’ en initiatiefnemers in de keten ‘van idee tot afhandeling’. Een belangrijke component in deze samenhangende ketens van het DSO is de Objectgerichte Ontsluiting van Omgevingsbesluiten. Deze komen samen in Ozon. Vanuit Ozon wordt alle informatie uit omgevingsbesluiten (zoals bijvoorbeeld omgevingsplannen, waterschapsverordeningen, omgevingsverordeningen) digitaal ontsloten. Zodat met één klik op de kaart kan worden achterhaald welke regels er op een bepaalde plek gelden.
+Het ministerie van BZK wil iedereen op een laagdrempelige manier inzicht geven in de regels die op een bepaalde plek gelden. Om dat mogelijk te maken vroeg het ministerie het kadaster om Ozon te bouwen . Een database die laat zien welke regels op een bepaalde plek gelden. Vanuit Ozon wordt alle informatie uit omgevingsbesluiten (zoals bijvoorbeeld omgevingsplannen, waterschapsverordeningen, omgevingsverordeningen) digitaal ontsloten. Zodat met één klik op de kaart kan worden achterhaald welke regels er op een bepaalde plek gelden.
 
 `DevOps`  `Java 11`  `Spring boot` `Feign` `RabbitMQ` `PostGIS` `Selenium` `JUnit` `Docker` `Jira` `Github` `Maven` `Jenkins` `REST` `JPA` `Artifactory`
 
