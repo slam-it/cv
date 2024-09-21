@@ -1,6 +1,9 @@
 # cv
 
 Export md file to html using Typora (HTML without styles)
+
+Go to https://www.ocr2edit.com/ and upload a screenshot of the html page.
+
 Go to https://pdfcrowd.com/html-to-pdf/ and upload zip archive containing html and images
 
 curl -f -u "demo:ce544b6ea52a5621fb9d55f8b542d14d" \

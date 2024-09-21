@@ -30,7 +30,7 @@ Hogeschool van Arnhem en Nijmegen
 
 # Vaardigheden
 
-`Java` `Kotlin` `Spring Boot` `Git` `Clound Foundry` `SQL`  `Azure Devops` `Thymeleaf` ` SOAP` `REST` `OpenAPI` `Kafka` `Docker` `Maven` `JPA` `SonarQube` `IntelliJ` `Jira` `JWT` `Jackson`  
+`Java` `Kotlin` `Spring Boot` `Git` `Clound Foundry` `SQL` `Hibernate`  `Azure Devops` `Thymeleaf` ` SOAP` `REST` `OpenAPI` `Kafka` `Docker` `Maven` `JPA` `SonarQube` `JUnit` `AssertJ` `IntelliJ` `Jira` `JWT` `Jackson`  
 
 </div></div><div id="main-right"><div id="main-right-content">
 
@@ -46,7 +46,7 @@ Een veelzijdige, flexibele en vakkundige senior Java ontwikkelaar met gezonde am
 
 Naar de cloud brengen van meerdere on-premise WebSphere applicaties. Migreren van Oracle database naar een Azure SQL database. 
 
-`Java 17` `Spring boot` `Azure Devops` `Cloud Foundry` `Azure SQL`  
+`Java 17` `Spring boot` `Azure Devops` `Kafka` `Axual` `Cloud Foundry` `Maven` `Azure SQL`  `REST` `SOAP` `JUnit` `AssertJ`
 
 ### Kadaster
 #### 2020 - 2022
