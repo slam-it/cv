@@ -1,18 +1,20 @@
 # cv
 
-Export md file to html using Typora (HTML without styles)
+## Export md file to html:
+```shell
+pandoc --standalone -o cv.html --css cv.css cv.md
+```
 
-Go to https://www.ocr2edit.com/ and upload a screenshot of the html page.
+## Export html file to pdf:
+* Open `cv.html` in Firefox 
+* Select File -> Print...
+* Change the following settings:
+  * Paper size -> A4
+  * Print headers and footers -> uncheck
+  * Print backgrounds -> check
 
-Go to https://pdfcrowd.com/html-to-pdf/ and upload zip archive containing html and images
+## Export markdown to Word
+Just don't use Word. 
+pandoc -o resume.docx --reference-docx=resume-docx-reference.docx resume.md
 
-curl -f -u "demo:ce544b6ea52a5621fb9d55f8b542d14d" \
-    -o "result.pdf" \
-    -F "page_size=A4" \
-    -F "margin_top=0" \
-    -F "margin_right=0" \
-    -F "margin_bottom=0" \
-    -F "margin_left=0" \
-    -F "content_viewport_width=large" \
-    -F "file=@Archive.zip" \
 
