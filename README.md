@@ -13,8 +13,8 @@ pandoc --standalone -o cv.html --css cv.css cv.md
   * Print headers and footers -> uncheck
   * Print backgrounds -> check
 
-## Export markdown to Word
-Just don't use Word. 
-pandoc -o resume.docx --reference-docx=resume-docx-reference.docx resume.md
+## Export Pdf to Word
+Convert using https://www.ilovepdf.com/
+
 
 
