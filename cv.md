@@ -36,28 +36,14 @@ Vervangen van de centrale mainframe legacy systemen door een nieuw modern inform
 
 Ontwikkelen van een zogenaamde ‘light-weight portal’ JEE applicatie die het mogelijk maakt content van verschillende applicaties (portlets) op een pagina te aggregeren. De applicatie vervangt specifieke tags uit pagina’s beheert door het Tridion CMS door dynamische content geleverd door de portlets.
 
-De applicatie is onder andere verantwoordelijk voor:
-
-* Het verlagen van de load op portlets in het geval van drukte.
-* Toegangs controle gebaseerd op het gebruikers profiel.
-* Tonen van ‘fallback’ content als een portret niet beschikbaar is.
-* Signeren van transacties.
-* Het conditioneel tonen van content gebaseerd op het gebruikersprofiel.
-
 #### TNT Express Nederland B.V.
 ##### <span class="date">2006 - 2008</span> <span class="location">Duiven</span>
-
-Ontwikkelen van een gemeenschappelijk systeem waar de planning, dagelijkse activiteiten, kostenbeheersing en service performance management ingevoerd kan worden voor zowel binnenlandse als internationale weg linehaul bedrijven. Dit systeem genaamd ROCS (Road Operations Control Systems) is het nieuwe weg linehaul management systeem voor TNT Express.
 
 #### Kappa Packaging
 ##### <span class="date">2005 - 2006</span> <span class="location">Oosterhout</span>
 
-Reeds bestaand content management systeem cq webshop voor het bestellen van karton verpakkingen. Een van de grootste Europese ondernemingen op het gebied van de productie, ontwikkeling en verkoop van containerboard, massief karton, golf- en massief kartonnen verpakkingen en grafisch en specialiteitenkarton. Het project bestond uit circa 15 man. Waarvan ook 2 man vanuit India opereerde.
-
 #### BWM
 ##### <span class="date">2003 - 2005</span> <span class="location">Otterlo</span>
-
-Het beheren, ontwerpen en ontwikkelen van website gebruik makend van een affiliate programma
 
 </div><div id="right">
 
